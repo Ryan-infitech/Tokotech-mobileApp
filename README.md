@@ -6,4 +6,4 @@
 
 # This is the mobile app of tokotech.live
 
-i'll try using Expo :)
+i'll try using Expo :) 
